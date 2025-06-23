@@ -1,12 +1,11 @@
-
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 20px;
-    font-size: 32px;
-    color: rgb(42, 122, 228);
-}
 body {
     color: rgb(255, 255, 255);
     background: black;
     margin: 2px;
+}
+header {
+    border-bottom: solid 2px rgb(95,228,42);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 42, 203);
 }
